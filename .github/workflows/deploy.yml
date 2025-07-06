@@ -1,4 +1,3 @@
-# Copy this file to .github/workflows/deploy.yml
 name: Deploy to AWS ECS
 
 on:

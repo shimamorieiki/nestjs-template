@@ -4,7 +4,6 @@ services:
   postgres:
     image: postgres:15-alpine
     container_name: nestjs-template-db
-    restart: always
     ports:
       - '5432:5432'
     environment:
